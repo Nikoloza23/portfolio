@@ -1,63 +1,59 @@
 // work data
 
 export const Work = [
-    {
-        id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
-        
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
-    },
-    {
-        id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
-        
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
-        
-    },
-    {
-        id:3,
-        name:"Dev.to Clone",
-        description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
-        
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
-    },
-    {
-        id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
-        
-        demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
-       
-    },{
-        id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
-        
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
-        
-    },
-    {
-        id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-        tags:["react","react-router","css"],
-        
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
-        
-    },
-    
-  
-] 
+	{
+		id: 1,
+		name: 'Movie Trailler-App',
+		description: 'It is built on top of React JS, with Sass and CSS also used Validation and Registred-Users.',
+		tags: ['react', 'sass', 'swiper', 'validation'],
+
+		demo: 'https://movie-trailler-app.netlify.app/',
+		github: 'https://github.com/Nikoloza23/movie-app',
+	},
+	{
+		id: 2,
+		name: 'Questionarie-App',
+		description: 'It is built with React, Where used Validation on (questions).',
+		tags: ['react', 'css', 'questions-and-answers', 'animation'],
+
+		demo: 'https://reddbery-questionarie.netlify.app/',
+		github: 'https://github.com/Nikoloza23/reddberry',
+	},
+	{
+		id: 3,
+		name: 'Ecommerce-Website',
+		description: 'It is built on top of React JS, with CSS. ',
+		tags: ['react', 'api', 'graphQl', 'cart', 'currency-exchange-rates'],
+
+		demo: 'https://github.com/Nikoloza23/scandiWeb-e-Commerce',
+		github: 'https://github.com/Nikoloza23/scandiWeb-e-Commerce',
+	},
+	{
+		id: 4,
+		name: 'React-Pages',
+		description: 'A cool-looking page menu builds using ReactJS and bootstrap. It has really useful functions.',
+		tags: ['react', 'bootstrap', 'react-router', 'funqtionality'],
+
+		demo: 'https://react-simple-pages.netlify.app/',
+		github: 'https://github.com/Nikoloza23/react-pages',
+	},
+	{
+		id: 5,
+		name: 'React-Cards',
+		description: 'It is built with React. Where you can search users.',
+		tags: ['react', 'css', 'api', 'searchbox'],
+
+		demo: 'https://react-user-cards.netlify.app/',
+		github: 'https://github.com/Nikoloza23/react-cards',
+	},
+	{
+		id: 6,
+		name: 'My-Portfolio (HTML,CSS,JS)',
+		description:
+			'A reponsive portfolio.',
+		tags: ['html', 'js', 'css', 'responsive'],
+
+		demo: 'https://nick-abashia-portfolio.netlify.app/',
+		github: 'https://github.com/Nikoloza23/my-portfolio',
+	},
+];
